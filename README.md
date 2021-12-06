@@ -32,14 +32,17 @@
    
 ## Contact
 
-Pankaj Ganjale - [My Linkedin](https://linkedin.com/in/pankajganjale)
+Pankaj Ganjale - [Linkedin](https://linkedin.com/in/pankajganjale)
+Shashank Singh - [Linkedin](https://www.linkedin.com/in/shashanks0194)
 
 Project Link - [Project Repo](https://github.com/pankajganjale/cryptoverse.git)
 
 ## Acknowledgment
 Took some help from these resources 
-1) [W3 Schools](https://www.w3schools.com)
-2) [MDN docs](https://developer.mozilla.org/en-US/)
+1) [MDN docs](https://developer.mozilla.org/en-US/)
+2) [Ant Design](https://ant.design/)
+3) [Chart Js](https://www.chartjs.org/)
+4) [Rapid API](https://rapidapi.com/hub)
 
 
 
