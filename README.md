@@ -1,70 +1,76 @@
-# Getting Started with Create React App
+# Cryptoverse
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Cryptoverse is a web application where users can find real time data of crypto market such as price, volume, crypto exchanges, latest news and many more things related to crypto world.
 
-## Available Scripts
+# Team Members:-
+1. Pankaj Ganjale
+2. Shashank Singh
 
-In the project directory, you can run:
+## To start our Project on your Machine:-
+1. Create a new folder.
+2. Run following command in terminal:- ```git clone https://github.com/pankajganjale/cryptoverse.git```
+3. Run following command in terminal:- ```cd cryptoverse```
+4. Run ```npm start```
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Go Live - [Click Here](https://cryptoappreact.netlify.app/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+# Features:-
+1. Users can use this application on any device.
+2. User will find top crypto currencies and top crypto news on landing page.
+3. On respective pages, users can see all the data of cryptos and crypto related news.
+4. Users can also search about crypto or crypto news on respective pages.
+5. Also, users can see detailed information of particular crypto currency with historical chart.
+6. Users can find top crypto exchanges on exchanges page with detailed information of exchanges.
 
-### `npm test`
+# Technologies that we used :-
+1. React
+2. Redux
+3. Ant Design
+4. Chart.js
+5. Rapid API
+   
+## Contact
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Pankaj Ganjale - [My Linkedin](https://linkedin.com/in/pankajganjale)
 
-### `npm run build`
+Project Link - [Project Repo](https://github.com/pankajganjale/cryptoverse.git)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Acknowledgment
+Took some help from these resources 
+1) [W3 Schools](https://www.w3schools.com)
+2) [MDN docs](https://developer.mozilla.org/en-US/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+# Glimpse of Our Work:-
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Home Page:-
+![Home Page](https://github.com/pankajganjale/cryptoverse/blob/main/images/home.PNG?raw=true)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+On this page, users can see data like total cryptocurrencies, market cap., volume with top 10 crypto currencies and latest news of crypto world. ALso, users can visit different pages using sidebar.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+## Crypto Page:-
+![Crypto Page](https://github.com/pankajganjale/cryptoverse/blob/main/images/crypto.PNG?raw=true)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+Users can find all crypto currencies on this page by their ranking. Users can also search crypto currencies using search box. After clicking on particular crypto, user will redirected to new page to see detailed information about that crypto.
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+## Crypto Details Page:-
+![Details Page](https://github.com/pankajganjale/cryptoverse/blob/main/images/detail.PNG?raw=true)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+On this page, users can find detailed information of any crypto currency by clicking on that. Users can see historical data in form of chart with volume, ranking, top links and detailed history of that crypto.
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## News Page:-
+![News Page](https://github.com/pankajganjale/cryptoverse/blob/main/images/news.PNG?raw=true)
 
-### Making a Progressive Web App
+On this page, users can find top news of crypto world. Also, users can select particular crypto using select bar to find latest news of that crypto.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Exchanges Page:-
+![Exchanges Page](https://github.com/pankajganjale/cryptoverse/blob/main/images/exchange.PNG?raw=true)
 
-### Advanced Configuration
+On this page, users can find all crypto exchanges with their ranking and volume. After clicking on exchange, users can see the detailed information of that particular crypto.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
