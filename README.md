@@ -1,6 +1,6 @@
 # Cryptoverse
 
-### Cryptoverse is a web application where users can find real time data of crypto market such as price, volume, crypto exchanges, latest news and many more things related to crypto world.
+### Cryptoverse is a web application where users can find real-time data of the crypto market such as price, volume, crypto exchanges, latest news and many more things related to the crypto world.
 
 # Team Members:-
 1. Pankaj Ganjale
