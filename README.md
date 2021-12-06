@@ -33,6 +33,7 @@
 ## Contact
 
 Pankaj Ganjale - [Linkedin](https://linkedin.com/in/pankajganjale)
+
 Shashank Singh - [Linkedin](https://www.linkedin.com/in/shashanks0194)
 
 Project Link - [Project Repo](https://github.com/pankajganjale/cryptoverse.git)
