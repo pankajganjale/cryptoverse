@@ -5,7 +5,6 @@ import moment from 'moment';
 import { useGetCryptosQuery } from '../services/cryptoApi';
 import { useGetCryptoNewsQuery } from '../services/cryptoNewsApi';
 import Loader from './Loader';
-// import Loader from './Loader';
 
 const demoImage = 'http://coinrevolution.com/wp-content/uploads/2020/06/cryptonews.jpg';
 
